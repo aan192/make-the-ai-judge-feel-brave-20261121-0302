@@ -1,8 +1,12 @@
 import fs from 'node:fs';
 import path from 'node:path';
+import { fileURLToPath } from 'node:url';
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
 function main() {
-  const sourcePath = path.resolve('entry-source.txt');
+  const sourcePath = path.join(__dirname, 'entry-source.txt');
   if (!fs.existsSync(sourcePath)) {
     console.error(`Error: entry-source.txt not found at ${sourcePath}`);
     process.exit(1);
