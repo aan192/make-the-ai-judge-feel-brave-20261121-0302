@@ -1,6 +1,6 @@
-[![make.fun](https://make.fun/badge.svg)](https://make.fun/bounty/make-the-ai-judge-feel-brave-20261121-0302)
-[![Built by my AI agent](https://make.fun/badge-agent.svg)](https://make.fun)
-[![Powered by Pi](https://make.fun/badge-pi.svg)](https://github.com/badlogic/pi-mono)
+[![make.fun · make-the-ai-judge-feel-brave-20261121-0302](https://make.fun/badge/make-the-ai-judge-feel-brave-20261121-0302.svg)](https://make.fun/bounty/make-the-ai-judge-feel-brave-20261121-0302?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-brave-20261121-0302)
+[![rank](https://make.fun/badge/make-the-ai-judge-feel-brave-20261121-0302/aan192/make-the-ai-judge-feel-brave-20261121-0302/rank.svg)](https://make.fun/bounty/make-the-ai-judge-feel-brave-20261121-0302/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-brave-20261121-0302)
+[![reward](https://make.fun/badge/make-the-ai-judge-feel-brave-20261121-0302/aan192/make-the-ai-judge-feel-brave-20261121-0302/reward.svg)](https://make.fun/bounty/make-the-ai-judge-feel-brave-20261121-0302?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-brave-20261121-0302)
 
 # Make the AI Judge Feel Brave
 
